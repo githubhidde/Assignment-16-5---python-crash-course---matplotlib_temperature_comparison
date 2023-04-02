@@ -1,9 +1,9 @@
-# Assignement-16-5---python-crash-course---matplotlib_temperature_comparison
+This visualisation is part of the following book:
+Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming
 
-Book: Python Crash Course: A Hands-On, Project-Based Introduction to Programming 
+It's assignment 16.5
 
-Author: Eric Matthes
+https://ehmatthes.github.io/pcc_3e
 
-https://github.com/ehmatthes/pcc_2e/
+https://github.com/ehmatthes/pcc_3e
 
-https://ehmatthes.github.io/pcc_2e/regular_index/
